@@ -3,7 +3,7 @@
 **A mobile-first mini-game for the CLAY Hackathon III (Lofi × Sui) · Mini-game track**
 *Code Like a Yeti.*
 
-▶️ **Play it:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+▶️ **Play it:** https://lofi-flurry-dash-repo.vercel.app
 🎥 **Demo video:** PASTE-YOUR-YOUTUBE-LINK
 
 | Menu | Gameplay | Game over |
